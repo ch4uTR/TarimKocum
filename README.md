@@ -26,7 +26,7 @@ tarimkocum/
 └── README.md               # Proje tanıtımı
 ```
 
-## ⚙️ Kurulum
+## Kurulum
 1. Depoyu klonlayın:
    ```bash
    git clone https://github.com/ch4uTR/tarimkocum.git
